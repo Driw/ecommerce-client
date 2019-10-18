@@ -49,6 +49,12 @@
 
 # Logs
 
+## 2019-10-18
+
+### 0.1.0.2
+- Added font-awesome, bootstrap, chart, angular-chart.
+- Added adminlte layout as base layout.
+
 ## 2019-10-16
 
 ### 0.1.0.1

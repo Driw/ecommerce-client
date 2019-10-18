@@ -29,9 +29,21 @@
 						],
 						"styles": [
 							"node_modules/bootstrap/dist/css/bootstrap.min.css",
+							"node_modules/@fortawesome/fontawesome-free/css/all.min.css",
+							"src/resources/stylesheets/adminlte.min.css",
 							"src/styles.less"
 						],
-						"scripts": []
+						"scripts": [
+							"node_modules/jquery/dist/jquery.slim.min.js",
+							"node_modules/bootstrap/dist/js/bootstrap.bundle.min.js",
+							"node_modules/@fortawesome/fontawesome-free/js/all.min.js",
+							"node_modules/chart.js/dist/Chart.min.js",
+							"node_modules/angular/angular.min.js",
+							"node_modules/angular-chart.js/dist/angular-chart.min.js",
+							"src/resources/javascript/adminlte.min.js",
+							"src/resources/javascript/demo.js",
+							"src/resources/javascript/pages/dashboard3.js"
+						]
 					},
 					"configurations": {
 						"production": {
