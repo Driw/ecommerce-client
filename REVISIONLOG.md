@@ -51,6 +51,12 @@
 
 ## 2019-10-18
 
+### 0.1.0.3
+- Added base layout components as adminlte layout:
+	- Navigator with navbar and sidebar.
+	- View with wrapper content.
+	- Footer with your container.
+
 ### 0.1.0.2
 - Added font-awesome, bootstrap, chart, angular-chart.
 - Added adminlte layout as base layout.
